@@ -1,7 +1,5 @@
 import pandas as pd
 import scrapy
-from selenium import webdriver
-from bs4 import BeautifulSoup
 import re
 import random
 import json
